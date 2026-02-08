@@ -1,6 +1,6 @@
 ![AI-Memory Hackathon by cognee](hackathon-banner.jpg)
 
-# What Happens When You Give an Analytics Agent a cognee search and ingested data?
+# What Happens When You Give an Analytics Agent a cognee tools?
 
 > **TL;DR** — We built two identical LangGraph agents and gave them the same procurement analytics question. One searches **raw document chunks**. The other searches data that **cognee already processed into a knowledge graph** — summaries, entities, and relationships extracted at ingestion time. The question isn't "which agent is smarter?" — it's **"does investing in data quality at ingestion time pay off at query time?"**
 
